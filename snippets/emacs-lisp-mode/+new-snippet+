@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name: newel
+# key: newel
+# --
+
+;;; $1.el --- $2    -*- no-byte-compile: t -*-
+;;; Commentary:
+;;;        $3
+;;;
+;;; Code:
+($4)
+
+
+(provide '$1)
+;;; $1.el ends here
